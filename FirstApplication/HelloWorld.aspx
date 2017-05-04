@@ -11,7 +11,7 @@
         <div>
             <asp:Label ID="Label1" runat="server" Text="Label">Hello World</asp:Label>
             <asp:Button ID="Button1" runat="server" Text="Click Me" OnClick="Button1_Click" />
-
+            <asp:Button ID="Button2" runat="server" Text="Button" />
         </div>
     </form>
 </body>
